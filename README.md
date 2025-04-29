@@ -1,3 +1,4 @@
+# Short Description of tasks
 - MVC / Subject-Observer / both ✅
 - 2 views: GUI swing & console log (/capture view list all moves) ✅
     - must be easy to de-/register ✅
